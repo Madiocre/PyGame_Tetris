@@ -5,6 +5,7 @@
 - Train/execute:
 ```shell
 # hyper parameters can be changed in the run.py script
+cd tetris-ai
 python3 run.py
 ```
 
