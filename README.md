@@ -1,4 +1,4 @@
-# Yetris AI
+# Tetris AI
 
 ## Run
 
